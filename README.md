@@ -1,10 +1,10 @@
-# An Exploratory Analysis of Linear Epitopes and Associated Antibody Complementarity-Determining Regions in the Immune Epitope Database
+# An Exploratory Analysis of Linear Epitopes and Associated Antibody CDRs in the IEDB
 
 Here are source codes used in the analysis made in the paper "An Exploratory
 Analysis of Linear Epitopes and Associated Antibody Complementarity-Determining
-Regions in the Immune Epitope Database", presented in the _XXIX Congresso de
-Iniciação Científica da Unicamp_ (XXIX Unicamp's Scientific Initiation
-Congress).
+Regions in the Immune Epitope Database", presented in the [_XXIX Congresso de
+Iniciação Científica da Unicamp_][xxix-pibic] (XXIX Unicamp's Scientific
+Initiation Congress).
 
 ## Repository Structure
 
@@ -18,6 +18,13 @@ bit cleaner, auxiliary Python scripts have been used and can be found in the
 Before you can run, you simply need to have [Jupyter][jupyter] configured in the
 machine you are willing to (re)execute the notebook cells. Please, refer to the
 [Jupyter installation guide][jupyter-install] for a step-by-step guide.
+
+Moreover, you will need to install the package dependencies listed in
+[`requirements.txt`](./requirements.txt). For doing so, use
+
+```bash
+pip install -r requirements.txt
+```
 
 After that, you just need to launch JupyterLab (or Jupyter Notebook) on the
 cloned repository folder. For instance, you may use
@@ -48,3 +55,4 @@ of view.
 
 [fapesp]: https://fapesp.br/en/
 [sae-unicamp]: https://www.sae.unicamp.br
+[xxix-pibic]: https://www.prp.unicamp.br/pibic/congressos/xxixcongresso
