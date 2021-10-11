@@ -1,6 +1,6 @@
 # An Exploratory Analysis of Linear Epitopes and Associated Antibody CDRs in the IEDB
 
-Here are source codes used in the analysis made in the paper "An Exploratory
+Here is the source code used in the analysis made in the paper "An Exploratory
 Analysis of Linear Epitopes and Associated Antibody Complementarity-Determining
 Regions in the Immune Epitope Database", presented in the [_XXIX Congresso de
 Iniciação Científica da Unicamp_][xxix-pibic] (XXIX Unicamp's Scientific
@@ -42,11 +42,11 @@ interface.
 
 ## Acknowledgments
 
-We thank [FAPESP][fapesp] for financially supporting the project under grand
+We thank [FAPESP][fapesp] for financially supporting the project under grant
 \#2020/11194-4 and [SAE/Unicamp][sae-unicamp] for financially supporting Henrique
 F. Simões.
 
-Opinions, hypothesis and conclusions, or recommendations made in this material
+Opinions, hypotheses and conclusions, or recommendations made in this material
 are responsibility of the author, and do not necessarily reflect FAPESP's point
 of view.
 
