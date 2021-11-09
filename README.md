@@ -31,7 +31,7 @@ cloned repository folder. For instance, you may use
 
 ```bash
 git clone https://github.com/henriquesimoes/xxix-pibic repo
-jupyterlab repo
+jupyter-lab repo
 ```
 
 and open the [analysis.ipynb](./analysis.ipynb) file through the software visual
